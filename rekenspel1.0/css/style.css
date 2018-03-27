@@ -1,0 +1,14 @@
+.VragenBox {
+    width: 300px;
+    border: 35px solid grey;
+    padding: 70px 0;
+    margin: auto;
+    text-align: center;
+
+}
+.GoedEnFout{
+  text-align: left;
+  font-size: 76px;
+  padding: 10px 20;
+}
+body {background-color: lime;}
